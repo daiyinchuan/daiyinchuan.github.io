@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lightbi</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content on Lightbi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
+    <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇博客</title>
+      <link>http://localhost:1313/post/my-first/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/my-first/</guid>
+      <description>这里是Markdown 正文</description>
+    </item>
+  </channel>
+</rss>
